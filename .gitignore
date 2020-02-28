@@ -1,0 +1,11 @@
+# ipynb checkpoints
+.ipynb_checkpoints/*
+
+# Python cache
+__pycache__/*
+
+# Python raw files for testing
+test*.py
+
+# vscode settings
+.vscode/*
