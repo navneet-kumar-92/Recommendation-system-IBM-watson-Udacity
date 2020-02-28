@@ -1,6 +1,4 @@
-# Data Scientist Nanodegree
-
-## Recommendation Engines
+# Recommendation Engines
 
 ## Project: Recommendations with IBM
 
